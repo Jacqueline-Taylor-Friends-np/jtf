@@ -32,7 +32,7 @@ const Hero = () => {
 
               </p>
              
-              <Link href="/signup" passHref>
+              <Link href="/login" passHref>
                 <a className="btn btn-success">Login <span className="ml-2 right-icon">&#8594;</span></a>
               </Link>
 
