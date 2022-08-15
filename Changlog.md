@@ -12,7 +12,10 @@ THIS CHANGELOG CONTAINS INFORMATION ON CHANGES MADE FROM INCEPTION OF WEBSITE
 1. Redeploy to Vercel
 2. Switch DNS back to vercel till problem resolved
 3. Consider replace Nextjs with Nuxt | Vue | React
+4. Switch dns back firebase once resolved
+
 
 ## Artist request changeorder
 1. Change Hero to Cover Image 
+2. Add blog to frontend
 

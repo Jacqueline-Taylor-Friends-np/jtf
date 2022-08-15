@@ -17,7 +17,7 @@ const Service = () => {
      desc : "Private online or in person cello lessons. Teaching Chamber Music Ensembles available upon request" },
     { title : "Chamber Music", 
     desc : "Chamber Group Music available for your special event from Dinner Parties to Weddings" },
-    { title : "Chistian", 
+    { title : "Christian", 
     desc : "Sacred Music available for your service including holiday solo or group as needed to praise the Lord." },
    /*  { title : "Lorem Ipsum",
      desc : "Lorem Ipsum has been the industry standard dummy text ever since the 1500s" },
