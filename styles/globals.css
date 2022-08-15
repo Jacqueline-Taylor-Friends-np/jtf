@@ -18,6 +18,10 @@ a {
 .gradient {
   background: linear-gradient(90deg, #800080 0%, #E6E6FA 100%);
 }
+
+.section1 {
+  background: linear-gradient(90deg, #800080 0%, #E6E6FA 100%);
+}
 /* 
 colors: {
   lightning: {

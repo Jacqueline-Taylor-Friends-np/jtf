@@ -13,19 +13,20 @@ import { Container, Row, Col } from 'reactstrap';
 import Image from 'next/image';
 import Link from 'next/link';
 //import ProfileImage from "../public/images/jackie.jpg";
-import ProfileImage from "../public/images/main-m.png";
+import ProfileImage from "../public/images/JTH_swan.png";
+//import ProfileImage from "../public/images/main-m.png";
 
 
 const Hero = () => {
   return (
-    <section className="section position-relative">
+    <section className="section section1 position-relative ">
       <Container>
         <Row className="align-items-center">
           <Col lg={6}>
             <div className="pr-lg-5">
               <p className="text-uppercase text-primary font-weight-medium f-14 mb-4"></p>
               <h1 className="mb-4 font-weight-normal line-height-1_4">Grand Opening</h1>
-              <p className="text-muted mb-4 pb-2">
+              <p className="text-white mb-4 pb-2">
                 Welcome to our new website. We are happy to announce our new calendar based booking system integrated with Facetime so our students can easily save their meeting URLS and join lessons directly from their calendar. 
                 
 
@@ -44,8 +45,8 @@ const Hero = () => {
             <Image 
     
               src={ProfileImage}
-              width={400}
-              height={300}
+              width={700}
+              height={700}
               alt="Jacqueline Taylor & Friends"
             />
 

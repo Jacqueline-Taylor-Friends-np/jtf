@@ -26,9 +26,9 @@ const FeatureBox = (props) => {
           <Col md={5} >
             <div>
             <Image 
-              src="/images/logo-v.png"
+              src="/images/cello1.png"
               width={250}
-              height={125}
+              height={250}
               alt="Jacqueline Taylor & Friends"
             />
               
@@ -70,9 +70,9 @@ const FeatureBox = (props) => {
         <Col md={{size:5, offset:1}} className="mt-5 mt-sm-0">
           <div>
           <Image 
-              src="/images/jt-m.png"
+              src="/images/calendar.png"
               width={250}
-              height={250}
+              height={200}
               alt="Jacqueline Taylor & Friends"
             />
             
