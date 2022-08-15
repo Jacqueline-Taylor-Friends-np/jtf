@@ -10,4 +10,9 @@ THIS CHANGELOG CONTAINS INFORMATION ON CHANGES MADE FROM INCEPTION OF WEBSITE
 3. Image optimization issues when not hosted by Vercel
 ### *** Resolution 
 1. Redeploy to Vercel
-2. Consider replace Nextjs with Nuxt | Vue | React
+2. Switch DNS back to vercel till problem resolved
+3. Consider replace Nextjs with Nuxt | Vue | React
+
+## Artist request changeorder
+1. Change Hero to Cover Image 
+
