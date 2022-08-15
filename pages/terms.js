@@ -10,15 +10,15 @@
 
 
 import Layout from '../components/Layout';
-import Header3 from '../components/Header3';
+import Header from '../components/Header';
 import TermsConditions from '../components/TermsConditions';
-import Footerx from '../components/Footerx';
+import Footer from '../components/Footer';
 
 
 const Index = () => {
   return (
     <Layout pageTitle="Jacqueline Taylor & Friends">
-      <Header3 />
+      <Header />
       
     
       
@@ -29,7 +29,7 @@ const Index = () => {
 
       
       
-      <Footerx />
+      <Footer />
     </Layout>
   )
 }
